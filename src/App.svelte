@@ -1,6 +1,4 @@
 <script>
-// @ts-nocheck
-
 	import { onMount } from "svelte";
 	import { musicList } from "./music-list.js";
 
