@@ -5,7 +5,7 @@
 	import { musicList } from "./music-list.js";
 
 	let currentSongIndex = 0;
-	let playerState = "play";
+	let playerState = "pause";
 	let audioElement;
 	let mainElement;
 
