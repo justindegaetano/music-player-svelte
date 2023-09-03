@@ -35,7 +35,7 @@
 	function playpause(){
 		if(playerState == "play"){
 			playerState = "pause";
-			audioElement.playpause();
+			audioElement.pause();
 		} else {
 			playerState = "play";
 			audioElement.play();
